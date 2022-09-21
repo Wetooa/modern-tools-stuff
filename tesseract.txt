@@ -1,0 +1,45 @@
+Jan 1 New Year's Day
+Jan 16 Feast of Sto.Nino
+Feb 1 Chinese New Year
+Feb 7 Classes Begin (Cluster 1)
+Feb 24 Cebu Charter Day
+Feb 25 Edsa Revolution Anniversary
+Mar 1 University Days
+Mar 2 University Days
+Apr 8 Classes End (Cluster 1)
+Apr 9 Araw ng Kagitingan
+Apr 11 Classes Begin (Cluster 2)
+Apr 14 Holy Thursday
+Apr 15 Good Friday
+Apr 16 Black Saturday
+May 1 Labor Day
+Jun 11 Classes End (Cluster 2)
+Jul 23 Virtual Commencement Rites
+Mar 10 Midterm Examinations(Cluster 1)
+Mar 11 Midterm Examinations(Cluster 1)
+Mar 12 Midterm Examinations(Cluster 1)
+Mar 19 Deadline: Submission of Midterm Grades
+Apr 6 Final Examinations (Cluster 1)
+Apr 7 Final Examinations (Cluster 1)
+Apr 8 Final Examinations (Cluster 1)
+Apr 18 Deadline: Submission of Final Grades
+May 12 Midterm Examinations (Cluster 2)
+May 13 Midterm Examinations (Cluster 2)
+May 14 Midterm Examinations (Cluster 2)
+May 21 Deadline: Submission of Midterm Grades
+Jun 9 Final Examinations (Cluster 2)
+Jun 10 Final Examinations (Cluster 2)
+Jun 11 Final Examinations (Cluster 2)
+Jun 18 Deadline: Submission of Final Grades
+Jun 12 Independence Day
+Jun 27 Classes Begin
+Jul 7 University Conferment Day
+Aug 5 Classes End
+Jul 14 Midterm Examinations
+Jul 15 Midterm Examinations
+Jul 16 Midterm Examinations
+Jul 23 Deadline: Submission of Midterm Grades
+Aug 3 Final Examinations
+Aug 4 Final Examinations
+Aug 5 Final Examinations
+Aug 13 Deadline: Submission of Final Grades
